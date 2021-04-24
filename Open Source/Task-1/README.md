@@ -1,7 +1,7 @@
 # Git and Github
 <br>
 
-Hey guys! Welcome to week 1 of Induction 2021. We will be learning all about git and github this week. So without any further ado head over [here]() to get started.<br>
+Hey guys! Welcome to week 1 of Induction 2021. We will be learning all about git and github this week. So without any further ado head over [here](https://www.youtube.com/watch?v=iR5WIknxdkY&start=13) to get started.<br>
 
 <b>You're still here? Go through the given materials first</b><br>
 
